@@ -118,6 +118,7 @@
         opacity: 0;
         visibility: hidden;
         transition: .5s;
+        width: 400px;
     }
 
     .navbar .nav-item:hover .dropdown-menu {
@@ -125,6 +126,8 @@
         visibility: visible;
         transition: .5s;
         opacity: 1;
+        width: 400px;
+
     }
 }
 
