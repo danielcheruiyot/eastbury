@@ -189,6 +189,10 @@
     .navbar-brand {
         width: 70%;
     }
+
+    #footer-img img {
+        width: 30% !important;
+    }
 }
 
 .page-header {
